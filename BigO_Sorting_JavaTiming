@@ -1,0 +1,12 @@
+Big-O analysis
+
+http://web.mit.edu/16.070/www/lecture/big_o.pdf -- Big O handout from MIT
+https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity -- explanation of Big O with examples
+http://discrete.gr/complexity/ -- "A Gentle Introduction to Algortihm Complexity Analysis" GIves a lot more detail than what we provided.
+
+Sorting algorithms
+http://www.java2novice.com/java-sorting-algorithms/ -- 5 different sort algorithm explanation with codes
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html -- different search algrotihms with solid examples
+
+Timing code in Java
+http://stackoverflow.com/questions/180158/how-do-i-time-a-methods-execution-in-java -- many ways offered by many people

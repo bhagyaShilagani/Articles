@@ -8,9 +8,9 @@ https://braunweiss.wordpress.com/2017/03/26/help-my-resume-screams-inexperienced
 # 2. How to become a Full-Stack Automation Engineer
 https://medium.com/@richdownie/how-to-become-a-full-stack-automation-engineer-765ee8a91b04#.qscu41oqh
 
+
 # 3. Extracting One (or more) Pages from a PDF
-Have you ever wondered how you could extract pages from a PDF? For example, imagine one of the pages is an image and you want just that, how would you do it? 
+https://github.com/bhagyaShilagani/Articles/extract_pages_from_PDF
 
-Last night I was about to do a screen capture of the page when I tried a simple hack. I bet lot of you know this but thought of sharing it anyways. I selected Print, and then “Print to PDF”, and then clicked “Current Page". And that’s it. Pretty obvious, but I never thought of doing “Save as PDF” with an actual PDF. As you can see, you can also select Pages to get a range of pages instead of just one.
-
-
+# 4. Java Collections Framework quick guide
+https://github.com/bhagyaShilagani/Articles/blob/master/Java_Collections

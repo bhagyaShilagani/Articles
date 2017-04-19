@@ -28,9 +28,12 @@ Java (ToDo):
 Python (ToDo): 
 
 # 6. Data Structures and Algo
-DS: Stacks(LILO), Queue(FIFO), Linked Lists (SinglyLL, DoublyLL, CircularLL), Trees(PreOrdered, PostOrdered, InOrdered, LevelOrdered BFS, BST)
-Searching: 
+DS: Stacks(LILO), Queue(FIFO), Array, Linked Lists (SinglyLL, DoublyLL, CircularLL), Trees (BST)
+Searching: Linear, Binary
 Sorting: Insertion, Selection, Quick, Merge, Bucket, Quick
 Performance: Big O
+Tree Traversal (Recursive Search)
+PostOrdered(LeftRightParent DEBFGCA), InOrdered(LeftParentRight DBEAFCG), PreOrdered(ParentLeftRight ABDECFG): Depth First Traversal
+LevelOrdered: Breadth First Traversal(Tricky ABCDEFG)
 http://introcs.cs.princeton.edu/java/40algorithms/
 http://coltech.vnu.edu.vn/~sonpb/DSA/Data%20Structures%20and%20Algorithms%20in%20Java,%206th%20Edition,%202014.pdf

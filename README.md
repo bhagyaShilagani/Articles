@@ -22,6 +22,9 @@ https://github.com/bhagyaShilagani/Articles/blob/master/Java_Collections
 Markov Chains --> State Machines with State transitions which are probabilities. 
 For Example Word: Chicken; possible next Words : 10% - is ; 30% - was; 50% - legs; 10% - runs;
 Simply choose the next word randomly. You get these probabilities from some input text.
+Google's Search Engine uses Page Rank Algo which is based on Markov Chains, 
+Other Examples: 
 https://en.wikipedia.org/wiki/Markov_chain#Examples
-Java (ToDo): 
+
+Java (ToDo):
 Python (ToDo): 

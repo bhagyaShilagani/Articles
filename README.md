@@ -27,8 +27,8 @@ Google's Search Engine uses [Page Rank Algo](https://en.wikipedia.org/wiki/PageR
 Java (ToDo):
 Python (ToDo): 
 
-# 6. Data Structures and Algo
-1. DS: Stacks(LILO), Queue(FIFO), Array, Linked Lists (SinglyLL, DoublyLL, CircularLL), 
+# 6. Data Structures and Algo Notes:
+1. DS: Stacks(LILO), Queue(FIFO), Array, Linked Lists (SinglyLL, DoublyLL, CircularLL), HashMap
 2. Trees (BT) - Deleting a node having L R child: get the smallest child on the right subtree and replace with the node being deleted. Then delete the smallest node of the right subtree
 3. Searching: Linear, Binary
 4. Sorting: Insertion, Selection, Quick, Merge, Bucket, Quick
@@ -39,4 +39,36 @@ Python (ToDo):
 7. Diff betweeb BST[O(n) when BT is a single LL is the worst case when data is already sorted] and Balanced BST[O(log n) worst case] - minimum tree height for better searching. On an average they perform the same. 
 8. Java has built in [TreeSet](https://docs.oracle.com/javase/7/docs/api/java/util/TreeSet.html) class
 9. http://introcs.cs.princeton.edu/java/40algorithms/
-10. http://coltech.vnu.edu.vn/~sonpb/DSA/Data%20Structures%20and%20Algorithms%20in%20Java,%206th%20Edition,%202014.pdf
+
+10. Trees and Binary Search Trees
+http://www.openbookproject.net/thinkcs/archive/java/english/chap17.htm -- explains trees, how to build and traverse it
+http://algs4.cs.princeton.edu/32bst/ -- about binary search trees
+https://www.youtube.com/watch?v=pYT9F8_LFTM -- BST video
+
+11. Tries
+https://www.toptal.com/java/the-trie-a-neglected-data-structure --explains with solid example
+https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/ -- explains as well as providing code
+
+12. Big-O analysis
+http://web.mit.edu/16.070/www/lecture/big_o.pdf -- Big O handout from MIT
+https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity -- explanation of Big O with examples
+http://discrete.gr/complexity/ -- "A Gentle Introduction to Algortihm Complexity Analysis" GIves a lot more detail than what we provided.
+
+13. Sorting algorithms
+http://www.java2novice.com/java-sorting-algorithms/ -- 5 different sort algorithm explanation with codes
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html -- different search algrotihms with solid examples
+
+14. Linked Lists
+http://www.mycstutorials.com/articles/data_structures/linkedlists -- linked list explanation with code
+
+15. Writing JUnit tests
+http://www.tutorialspoint.com/junit/junit_test_framework.htm -- explains fixtures, test suites, test runners, JUnit classes
+
+16. Exceptions and Exception Handling
+https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html - Oracle's tutorial on Exceptions.
+
+17. Hashtables and HashMaps
+
+http://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm -- about hashing, linear probing, search, delete, insert
+https://www.youtube.com/watch?v=MfhjkfocRR0 -- video about hashtable
+http://stackoverflow.com/questions/40471/differences-between-hashmap-and-hashtable -- difference between hashtables and hashmaps

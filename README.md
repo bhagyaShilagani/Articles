@@ -17,3 +17,11 @@ Last night I was about to do a screen capture of the page when I tried a simple 
 
 # 4. Java Collections Framework quick guide
 https://github.com/bhagyaShilagani/Articles/blob/master/Java_Collections
+
+# 5. Markov Chains - text generator algorithm
+Markov Chains --> State Machines with State transitions which are probabilities. 
+For Example Word: Chicken; possible next Words : 10% - is ; 30% - was; 50% - legs; 10% - runs;
+Simply choose the next word randomly. You get these probabilities from some input text.
+https://en.wikipedia.org/wiki/Markov_chain#Examples
+Java (ToDo): 
+Python (ToDo): 

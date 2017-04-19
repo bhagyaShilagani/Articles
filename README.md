@@ -27,4 +27,5 @@ Google's Search Engine uses [Page Rank Algo](https://en.wikipedia.org/wiki/PageR
 Java (ToDo):
 Python (ToDo): 
 
-# 6. [Data Structures and Algo] (http://introcs.cs.princeton.edu/java/40algorithms/)
+# 6. Data Structures and Algo
+http://introcs.cs.princeton.edu/java/40algorithms/

@@ -15,16 +15,14 @@ Have you ever wondered how you could extract pages from a PDF? For example, imag
 Last night I was about to do a screen capture of the page when I tried a simple hack. I bet lot of you know this but thought of sharing it anyways. I selected Print, and then “Print to PDF”, and then clicked “Current Page". And that’s it. Pretty obvious, but I never thought of doing “Save as PDF” with an actual PDF. As you can see, you can also select Pages to get a range of pages instead of just one.
 
 
-# 4. Java Collections Framework quick guide
-https://github.com/bhagyaShilagani/Articles/blob/master/Java_Collections
+# 4. Java Collections Framework [quick guide](https://github.com/bhagyaShilagani/Articles/blob/master/Java_Collections)
 
 # 5. Markov Chains - text generator algorithm
 Markov Chains --> State Machines with State transitions which are probabilities. 
 For Example Word: Chicken; possible next Words : 10% - is ; 30% - was; 50% - legs; 10% - runs;
 Simply choose the next word randomly. You get these probabilities from some input text.
-Google's Search Engine uses Page Rank Algo which is based on Markov Chains, 
-Other Examples: 
-https://en.wikipedia.org/wiki/Markov_chain#Examples
+Google's Search Engine uses [Page Rank Algo](https://en.wikipedia.org/wiki/PageRank) which is based on Markov Chains, 
+[Other Examples](https://en.wikipedia.org/wiki/Markov_chain#Examples)
 
 Java (ToDo):
 Python (ToDo): 

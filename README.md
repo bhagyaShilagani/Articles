@@ -10,7 +10,7 @@ https://medium.com/@richdownie/how-to-become-a-full-stack-automation-engineer-76
 
 # Road to becoming a web Developer 
 Source: [FreeCodeCamp.com](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
- ![Web Developer Rodamap](/Articles/WebDeveloperRoadMap.png "Web Developer Rodamap")
+ ![Web Developer Rodamap](WebDeveloperRoadMap.png "Web Developer Rodamap")
  ![Front-end Developer Roadmap](/Articles/FrontEndDeveloperRoadMap.png "Front-end Developer Rodamap")
  ![Back-end Developer Roadmap](/Articles/BackEndDeveloperRoadMap.png "Back-end Developer Roadmap")
  ![DevOps Rodamap](/Articles/DevOpsRoadMap.png "DevOps Roadmap")

@@ -10,10 +10,10 @@ https://medium.com/@richdownie/how-to-become-a-full-stack-automation-engineer-76
 
 # Road to becoming a web Developer 
 Source: [FreeCodeCamp.com](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
- ![Web Developer Roda Map](/Articles/WebDeveloperRoadMap.png)
- ![Front End Developer Road Map](/Articles/FrontEndDeveloperRoadMap.png)
- ![Back End Developer Road Map](/Articles/BackEndDeveloperRoadMap.png)
- ![DevOps Roda Map](/Articles/DevOpsRoadMap.png)
+ ![Web Developer Rodamap](/Articles/WebDeveloperRoadMap.png "Web Developer Rodamap")
+ ![Front-end Developer Roadmap](/Articles/FrontEndDeveloperRoadMap.png "Front-end Developer Rodamap")
+ ![Back-end Developer Roadmap](/Articles/BackEndDeveloperRoadMap.png "Back-end Developer Roadmap")
+ ![DevOps Rodamap](/Articles/DevOpsRoadMap.png "DevOps Roadmap")
 
 # 3. Extracting One (or more) Pages from a PDF
 Have you ever wondered how you could extract pages from a PDF? For example, imagine one of the pages is an image and you want just that, how would you do it?

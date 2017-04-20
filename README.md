@@ -8,6 +8,12 @@ https://braunweiss.wordpress.com/2017/03/26/help-my-resume-screams-inexperienced
 # 2. How to become a Full-Stack Automation Engineer
 https://medium.com/@richdownie/how-to-become-a-full-stack-automation-engineer-765ee8a91b04#.qscu41oqh
 
+# Road to becoming a web Developer (Source: [FreeCodeCamp.com](
+https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf))
+#  ![Web Developer Roda Map](Articles/WebDeveloperRoadMap.png)
+#  ![Front End Developer Road Map](Articles/FrontEndDeveloperRoadMap.png)
+#  ![Back End Developer Road Map](Articles/BackEndDeveloperRoadMap.png)
+#  ![DevOps Roda Map](Articles/DevOpsRoadMap.png)
 
 # 3. Extracting One (or more) Pages from a PDF
 Have you ever wondered how you could extract pages from a PDF? For example, imagine one of the pages is an image and you want just that, how would you do it?
